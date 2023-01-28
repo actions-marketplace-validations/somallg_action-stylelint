@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reviewdog/action-stylelint.git"
+    "url": "git+https://github.com/somallg/action-stylelint.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reviewdog/action-stylelint/issues"
+    "url": "https://github.com/somallg/action-stylelint/issues"
   },
-  "homepage": "https://github.com/reviewdog/action-stylelint#readme",
+  "homepage": "https://github.com/somallg/action-stylelint#readme",
   "devDependencies": {
     "stylelint": "^14.0.0",
     "stylelint-config-recommended": "^7.0.0"

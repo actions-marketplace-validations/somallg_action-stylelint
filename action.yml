@@ -1,6 +1,6 @@
-name: 'Run stylelint with reviewdog'
+name: 'Run stylelint with somallg/reviewdog'
 description: '🐶 Run stylelint with reviewdog on pull requests to improve code review experience.'
-author: 'haya14busa (reviewdog)'
+author: 'somallg (reviewdog)'
 inputs:
   github_token:
     description: 'GITHUB_TOKEN.'
